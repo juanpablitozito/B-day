@@ -5,43 +5,48 @@
   }
   p{
     color: white;
-    font-size: 32px;
+    font-size: 20px;
     margin: 0;
     position: absolute;
-    top: 45%;
+    top: 65%;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
   }
 
   .call{
-    width: 150px;
+    width: 120px;
     position: absolute;
-    margin-left: 15px;
+    margin-left: 45px;
     top: 2.5%;
   }
 
   .roblox{
     width: 200px;
   position: absolute;
-  right: 15px;
-  margin-right: 15px;
-  top: 2.5%;
+  top: 32%;
   }
 
   .roblox2{
-    width: 200px;
+    width: 210px;
     position: absolute;
-    right: 15px;
-    margin-right: 15px;
-    top: 25%;
+    margin-left: 205px;
+    height: 113px;
+    top: 32%;
   }
 
   .under{
     color: red;
-    font-size: 25px;
+    font-size: 26px;
     margin: 0;
     position: absolute;
-    top: 40%;
+    top: 55%;
     left: 5%;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+  }
+
+  .us{
+    width: 140px;
+    position: absolute;
+    margin-left: 230px;
+    top: 7%;
   }
 
